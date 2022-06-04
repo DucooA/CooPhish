@@ -15,8 +15,8 @@ printf "\e[1;92m | |      | (   ) || |   | |\e[0m\e[1;77m|  _____)|  ___  |   | 
 printf "\e[1;92m | |      | (   ) || |   | |\e[0m\e[1;77m| (      | (   ) |   | |         ) || (   ) |\e[0m\n"
 printf "\e[1;92m | (____/\| (___) || (___) |\e[0m\e[1;77m| )      | )   ( |___) (___/\____) || )   ( |\e[0m\n"
 printf "\e[1;92m (_______/|/_____\||/_____\|\e[0m\e[1;77m|/       |/     \|\_______/\_______)|/     \|\e[0m\n"
-printf " \e[1;93m CamPhish Ver 1.5 \e[0m \n"
-printf " \e[1;77m www.techchip.net | youtube.com/techchipnet \e[0m \n"
+printf " \e[1;93m CooPhish Ver 1.0 \e[0m \n"
+printf " \e[1;77m powered by Duale | github.com/DucooError \e[0m \n"
 
 printf "\n"
 
