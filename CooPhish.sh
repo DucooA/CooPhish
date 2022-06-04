@@ -1,7 +1,7 @@
 #!/bin/bash
-# CamPhish v1.5
-# Powered by TechChip
-# Credits goes to thelinuxchoice [github.com/thelinuxchoice/]
+# CooPhish v1.0
+# Powered by Duale
+# Credits goes to Ducoo [github.com/DucooError/]
 
 trap 'printf "\n";stop' 2
 
